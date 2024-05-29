@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>My First Web Page</h1>
+    <h2>Introduction</h2>
+    <p>Welcome to my first web page! this is a paragraph of text.</p>
+    <h3>About me</h3>
+    <p>I am learning HTML to create awesame web pages.</p>
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Reading</li>
+        <li>Coding</li>
+        <li>Traveling</li>
+    </ul>
+    <h2>Favorite Websites</h2>
+    <nav>
+        <ol>
+            <li><a href="https://www.google.co.jp/">Google</a></li>
+            <li><a href="https://www.yahoo.co.jp/">yahoo</a></li>
+        </ol>
+    </nav>
+    <h2>My Favorite Images</h2>
+    <img src="images/Example Image" alt="Example Image">
+    <h2>Contact Infomation</h2>
+    <table border="1">
+        <tr><th>Name</th><th>Email</th></tr>
+        <tr><td>John Doe</td><td>john@exsample.com</td></tr>
+    </table>
+</body>
+</html>
